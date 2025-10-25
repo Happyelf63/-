@@ -11,7 +11,9 @@ We’re building transparency, collaboration, and innovation into how blockchain
 ---
 
 ## 🔑 Access  
-Use the following invite code to join the developer network:  
+Use the following invite code to join the developer network:  0xC882dbf6F4c35dA43eEB2572F33e910cDc697F5f
+or
+0x8d202A5657eD6D748aD1A351eD25D25cb06Ba7a3
 
 
 ---
